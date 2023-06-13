@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/listview_3horizintal/build" />
+      <excludeFolder url="file://$MODULE_DIR$/listview_3horizintal/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/listview_3horizintal/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/listview_2tile/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/listview_2tile/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/listview_2tile/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/wid_container/build" />
+      <excludeFolder url="file://$MODULE_DIR$/wid_container/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/wid_container/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/listview/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/listview/build" />
+      <excludeFolder url="file://$MODULE_DIR$/listview/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/workshop1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/workshop1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/workshop1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/wid_lowcolum/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/wid_lowcolum/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/wid_lowcolum/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
